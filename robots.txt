@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-59vc2a.cnkitabos.ink/sitemap.xml
